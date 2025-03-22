@@ -40,5 +40,5 @@ Ensure you have the following installed:
 This project is open-source and available under the MIT License.
 
 ## Credits
-Developed by [Your Name]
+Developed by Huzaifa Azam
 
